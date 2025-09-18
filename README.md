@@ -1,1 +1,3 @@
-# google-note-20970-21879
+# Project Repository
+
+This is the initial README file for the project.
